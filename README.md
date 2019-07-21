@@ -43,5 +43,7 @@ python manage.py runserver 127.0.0.1:8000.
 ###Выходные данные
 В случае удачного выполнения команды в терминале результат будет следующим.
 ![terminal result](README_IMAGES/terminal_result.png)
+
 Доступ к сайту осуществляется по ссылке [http://localhost:8000](http://127.0.0.1:8000). В случае удачного запуска сайта результат будет выглядеть следующим образом.
+
 ![browser result](README_IMAGES/browser_result.png)
